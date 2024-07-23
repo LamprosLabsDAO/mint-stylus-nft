@@ -7,7 +7,7 @@ This folder contains a script to quickly mint an ERC-721 token.configured in .en
 1. Install the dependencies
 
 ```shell
-npm insatall
+npm install
 ```
 
 2. Copy and fill the .env file
@@ -19,5 +19,5 @@ cp .env.example .env
 3. Run the minting script
 
 ```shell
-yarn mint
+npm run mint
 ```
